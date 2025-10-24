@@ -1,0 +1,13 @@
+{
+    "name": "EquipmentGridLess",
+    "version": "0.0.1",
+    "title": "Equipment GridLess",
+    "author": "JohnTheCoolingFan",
+    "contact": "https://discord.gg/KPnETvMDYk",
+    "homepage": "https://discord.gg/KPnETvMDYk",
+    "dependencies": [
+        "base >= 2.0.0"
+    ],
+    "description": "Increases Equipment Grid resolution, making it almost Gridless",
+    "factorio_version": "2.0"
+}
