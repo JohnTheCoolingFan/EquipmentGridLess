@@ -8,6 +8,8 @@ Well, you can't. But you can get very close!
 
 Introducing Equipment GridLess - it increass the equipment grid resolution to a point where it's almost unnoticeable. It's still there, but all thsoe jagged edges are upscaled away ~~using latest upscaling technology from <your GPU vendor>~~. It even works on all devices!
 
+![equipment off-grid](.img/rectangles.png)
+
 # Settings
 
 The mod has a few startup options that you can change to tweak your GridLess™ experience:
@@ -27,5 +29,9 @@ Default: enabled
 ### Equipment pills
 
 Makes equipment have a circular or pill shape for extra fun.
+
+Just see it for yourself:
+
+![pill-shaped equipment](.img/pills.png)
 
 Default: enabled
