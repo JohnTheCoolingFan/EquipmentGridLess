@@ -6,7 +6,7 @@ Ever wondered if it's possible to free yourself from the shackles of the grid?
 
 Well, you can't. But you can get very close!
 
-Introducing Equipment GridLess - it increass the equipment grid resolution to a point where it's almost unnoticeable. It's still there, but all thsoe jagged edges are upscaled away ~~using latest upscaling technology from <your GPU vendor>~~. It even works on all devices!
+Introducing Equipment GridLess - it increases the equipment grid resolution to a point where it's almost unnoticeable. It's still there, but all those jagged edges are upscaled away ~~using latest upscaling technology from <your GPU vendor>~~. It even works on all devices!
 
 ![equipment off-grid](.img/rectangles.png)
 
